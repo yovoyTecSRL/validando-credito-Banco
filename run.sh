@@ -33,4 +33,4 @@ fi
 
 echo
 echo "Ejecutando aplicación principal..."
-python main.py
+python src/main.py
